@@ -1,1 +1,1 @@
-# es6-Promise
+# polyfill for promise a+
